@@ -1,0 +1,15 @@
+body{
+    background-color: #f36520;
+}
+header{
+    background-color: #fff;
+}
+header, nav, main{
+    background-color: #fff;
+}
+header{
+    margin:  2vh auto;
+}
+nav, main{
+    min-height: 80vh;
+}
